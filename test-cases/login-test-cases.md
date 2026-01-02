@@ -1,4 +1,6 @@
-# Draft Login Test Cases for Admin Rakamin Job Portal
+# Draft Test Cases for Admin Rakamin Job Portal Page
+
+<img width="1920" height="718" alt="image" src="https://github.com/user-attachments/assets/bd549b2c-abc8-4d98-89a0-8d54852fde84" />
 
 | Test ID | Scenario |	Priority |	Test Type |	Description |	Pre-condition |	Step |	Data |	Expected Result |	Actual Result |	Status |
 |--------|------------------|-------|----------------|---------------------|----------------------|-------------------------|-------------------|-------------------------|---------------------------|----------------|
@@ -14,4 +16,4 @@
 | T0010 | Minimum Profile Information Required "Date of Birth" | High | Positive | Profile Information can be swithced between "Mandatory, Optional and Off" | Successfully filled the Job opening drawer and scrolled down to the Minimum Profile Information Required section | 1. Open Rakamin Job portal as Admin 2. Click ""Create a New Job"" button 3. Fill the required form 4. Scroll down to ""Minimum Profile Information Required"" section | Mandatory, Optional and Off | Can Switch the button between "Mandatory, Optional and Off" | As Expected | Pass |
 | T0011 | "Publish Job" button | High | Positive | Working button and redirected to "Job List" page | Successfully filled all the information required | "1. Open Rakamin Job portal as Admin 2. Clik ""Create a New Job"" button 3. Fill the required form 4. Scroll down to ""Minimum Profile Information Required"" section 5. Click ""Publish Job"" button" | Rakamin web | Buttons are working, redirected to Job List page and New Job are available on the Job List page | As Expected | Pass |
 | T0012 | "Manage Job" button | High | Positive | to show the data of the candidates | Successfully filled all the information required | "1. Open Rakamin Job portal as Admin 2. Click ""Manage Job"" button" | Rakamin web | If there are candidates are applying, it will show the candidates data, If none are applying, the page will showing "No candiates found" with image | As Expected | Pass |
- 
+
