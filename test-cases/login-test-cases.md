@@ -1,27 +1,17 @@
-# Draft Login Test Cases for Rakamin Job Portal
+# Draft Login Test Cases for Rakamin Job Portal for Admin
 
 | Test ID | Scenario |	Priority |	Test Type |	Description |	Pre-condition |	Step |	Data |	Expected Result |	Actual Result |	Status |
 |------|--------------|-------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
-| Test1 |  Check Accesibility 
-| Test2 | Create New Job Opening Upper Right Button
-| Test3 | Create New Job Opening Middle Button
-| Test4 | "Job Opening Drawer must be filled 
+| Test1 |  Check Accesibility | High | Positive |
+| Test2 | Create New Job Opening Upper Right Button | High | Positive |
+| Test3 | Create New Job Opening Middle Button | High | Positive |
+| Test4 | "Job Opening Drawer must be filled, Job Name, Job Type, Job Description, Number of Candidate Needed" | High | Positive |
+| Test5 | Job Type Dropdowns | High | Positive |
+| Test6 | Minimum Profile Information Required "Gender" | High | Positive |
+| Test7 | Minimum Profile Information Required "Domicile" | High | Positive |
+| Test8 | Minimum Profile Information Required "Phone Number" | High | Positive |
+| Test9 | Minimum Profile Information Required "LinkedIn link" | High | Positive |
+| Test10 | Minimum Profile Information Required "Date of Birth" | High | Positive |
+| Test11 | "Publish Job" button | High | Positive |
+| Test12 | "Manage Job" button | High | Positive |
 
-1. Job Name
-2. Job Type
-3. Job Description
-4. Number of Candidate Needed" 
-| Test5 |
-| Test8 |
-| Test9 |
-| Test10
-| Test11
-| Test12
-| Test11
-| Test12
-| Test13
-| Test14
-| Test15
-| TC01 | Valid Login | Input valid username & password | User redirected to dashboard |
-| TC02 | Invalid Password | Input valid username, wrong password | Error message displayed |
-| TC03 | Empty Fields | Click login without input | Validation message displayed |
