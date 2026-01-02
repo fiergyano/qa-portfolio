@@ -1,6 +1,6 @@
 #  JIRA Bug Report Format
 
-This document shows a standard bug report format used in real projects.
+This document shows a standard bug report format used in my real projects.
 
 ---
 
@@ -9,7 +9,7 @@ This document shows a standard bug report format used in real projects.
 **Title:**  
 Login button not responding after clicking
 
-**Project:** Web Application  
+**Project:** Web Application on shop.comofootball.com  
 **Environment:** Chrome 120, Windows 10  
 **Severity:** High  
 **Priority:** High  
@@ -21,10 +21,11 @@ Login button not responding after clicking
 
 ##  Steps to Reproduce
 
-1. Open  homepage  
+1. Open shop.comofootball.com homepage  
 2. Navigate to Login page  
 3. Enter valid username and password  
 4. Click **Login** button
+5. Observe the page
 
 ---
 
