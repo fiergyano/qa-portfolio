@@ -1,7 +1,7 @@
 # Draft Login Test Cases for Rakamin Job Portal for Admin
 
 | Test ID | Scenario |	Priority |	Test Type |	Description |	Pre-condition |	Step |	Data |	Expected Result |	Actual Result |	Status |
-|------|--------------|-------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
+|--------|------------------|-------|----------------|---------------------|----------------------|-------------------------|-------------------|-------------------------|---------------------------|----------------|
 | Test1 |  Check Accesibility | High | Positive | Website are accesible | - | Login to Rakamin Job Portal as Admin | Rakamin web | Homepage loads successfully with header, hero banner, and footer visible | As Expected | Pass |
 | Test2 | Create New Job Opening Upper Right Button | High | Positive | Test "Create New Job" Button | Sucessfully go to Rakamin Admin Web | 1. Open Rakamin Job portal as Admin 2. Click "Create a New Job" button | Rakamin web | Button Navigate to Job Description form | As Expected | Pass |
 | Test3 | Create New Job Opening Middle Button | High | Positive | Test "Create New Job" Button | Sucessfully go to Rakamin Admin Web | 1. Open Rakamin Job portal as Admin 2. Click "Create a New Job" button | Rakamin web | Button Navigate to Job Description form | As Expected | Pass |
