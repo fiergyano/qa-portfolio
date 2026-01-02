@@ -1,4 +1,4 @@
-# Draft Login Test Cases for Rakamin Job Portal for Admin
+# Draft Login Test Cases for Admin Rakamin Job Portal
 
 | Test ID | Scenario |	Priority |	Test Type |	Description |	Pre-condition |	Step |	Data |	Expected Result |	Actual Result |	Status |
 |--------|------------------|-------|----------------|---------------------|----------------------|-------------------------|-------------------|-------------------------|---------------------------|----------------|
